@@ -1,1 +1,59 @@
---
+﻿<!DOCTYPE html> 
+<html>
+<head>
+<style>
+body{
+        background-color: forestgreen
+}
+</style>
+</head>
+</html>
+
+
+<html>
+<body>
+
+<title>M&M's Dark Web Directory</title>
+<img src="logo.png" alt=" "--">
+<h1>M&M's Dark Web Directory </h1> <!-- title for website -->
+
+<br>
+<p>Note: The creators of this directory are not responsible for any harm caused through the dark web sites listed in this directory. Please use the dark web at your own risk. </p>
+<br>
+<p>Last Updated: 12/26/2025 - you may not find everything in this directory, but as it gets updated more links will be added.</p>
+<p>v1.0.1</p>
+<br>
+<p>Choose the category of Dark Web sites that you would like to see the links for.</p>
+<a href=sPages\advice.html>Advice</a>
+<br>
+<a href=sPages\DPS.html>Directories, Portals, and Search Engines</a>
+<br>
+<a href=sPages\SM.html>Dark Web Social Media</a>
+<br>
+<a href=sPages\chatrooms.html>Chatrooms</a>
+<br>
+<a href=sPages\dwns.html>Dark Web News Sites</a>
+<br>
+<a href=sPages\libArchives.html>Libraries and Book Archives</a>
+<br>
+<a href=sPages\RIOL.html>Random Interesting Onion Links</a>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
