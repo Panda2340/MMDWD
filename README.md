@@ -6,6 +6,7 @@ This update will include:
 - a button on the pages for the sections that brings you back to the homepage
 - minor bug fix with page titles
 - link of the week
+- Old v2 links we added are being taken down (accident we made)
 
 New updates twice per week!
 
