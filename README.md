@@ -1,9 +1,10 @@
 Thank you for choosing M&M's Dark Web Directory (MMDWD for short)
 
-v1.0.3 Update coming out in an hour!
-This will include:
+v1.0.3 Update is out right now!
+This Update includes:
 -2 new sections
--go back to homepage button
+-go back to homepage button for each section
+(new font was postponed to next update coming next week)
 
 New updates twice per week! (or more depending on if we decide to)
 
