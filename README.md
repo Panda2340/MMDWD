@@ -3,7 +3,7 @@ Thank you for choosing M&M's Dark Web Directory (MMDWD for short)
 v1.0.2 Update Drops in 45 minutes! (December 27, 2025)
 This update will include:
 - 2 new sections
-- a button on the pages for the sections that brings you back to the homepage
+- a button on the pages for the sections that brings you back to the homepage (This has been delayed to v1.0.3 due to a bug)
 - minor bug fixes
 - onion link of the week
 - Old v2 links we added are being taken down (accident we made, only v3 links will now be shown).
